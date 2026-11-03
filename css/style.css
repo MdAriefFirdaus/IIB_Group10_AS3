@@ -51,6 +51,7 @@ body {
   font-weight: 600;
 }
 
+
 .site-nav a:hover {
   text-decoration: underline;
 }
@@ -93,4 +94,5 @@ li {
   padding: 1rem;
   font-size: 0.9rem;
   color: #666;
+}
 }
